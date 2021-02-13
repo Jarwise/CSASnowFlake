@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Package by DM 2018, SnowAnimation by Barbara Lerner, Feb 1
+ 0, 2010
+Rsrc-Class-Path: ./
+Class-Path: .
+Main-Class: SnowAnimation
+
